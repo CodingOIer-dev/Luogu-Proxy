@@ -20,7 +20,7 @@
 
 3. 把 `src/luogu.py` 放置到你的脚本同目录。
 
-4. 将所有 `import requests` 更改为 `import luogu as requests` 即可。
+4. 将**你的项目中**所有 `import requests` 更改为 `import luogu as requests` 即可。
 
 > [!TIP]
 >
